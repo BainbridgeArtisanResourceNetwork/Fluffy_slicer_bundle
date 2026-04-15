@@ -9,7 +9,7 @@ Installation instructions:
 
 1. Download the config bundle zip file from the "Releases" section of this repo.
 2. Start PrusaSlicer on your computer.
-3. In the "Printer" dropdown menu on teh main screen, select "Add/Remove Printers", then "Add/Remove Presets". This will start the slicer Configuration Wizard.
+3. In the "Printer" dropdown menu on the main screen, select "Add/Remove Printers", then "Add/Remove Presets". This will start the slicer Configuration Wizard.
 4. On the left side of the wizards window, click on "Configuration Sources".
      A. In this window, uncheck the box next to "Other FFF" if it is checked.
      B. Click the "Load" button in the Local Sources section, and navigate to the zip file you downloaded. A Name, Description and source file should be listed and a gree checkmark.
